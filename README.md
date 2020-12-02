@@ -1,7 +1,7 @@
 ### Sou Aislanio Amorim Dev Web 
 
 ---- 
-**Ola sou Aislanio Amorim atualmento sou dev front end **
+**Ola sou Aislanio Amorim atualmento sou dev front end**
 Eu gostor de codar e também resolver problemas
 
 ----
