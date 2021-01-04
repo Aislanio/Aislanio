@@ -4,8 +4,8 @@
 ### Sou Aislânio Amorim Dev Web 
 
 ---- 
-**Ola sou Aislanio Amorim atualmento sou dev front end**<br>
-Eu gostor de codar e também resolver problemas
+**Ola sou Aislanio Amorim atualmente sou dev front end**<br>
+Eu gostor de codar e também resolver problemas =)
 
 ----
 
