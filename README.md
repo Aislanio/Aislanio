@@ -5,7 +5,7 @@
 
 ---- 
 **Ola sou Aislanio Amorim atualmente sou dev front end**<br>
-Eu gostor de codar e também resolver problemas =)
+Eu gostor de codar e também resolver problemas =)<br/>
 <a target="_blank" href="https://www.linkedin.com/in/aisl%C3%A2nio-amorim-4009521b8/">Você pode ver meu Portfólio clicando aqui</a>
 
 
