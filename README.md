@@ -1,4 +1,4 @@
-<img src="https://github.com/Aislanio/Site-de-E-books/blob/master/undraw_coding_6mjf.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Aislanio/Site-de-E-books/blob/master/undraw_coding_6mjf.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Programando">
 
 
 ### Sou Aislânio Amorim Dev Web 
@@ -6,6 +6,8 @@
 ---- 
 **Ola sou Aislanio Amorim atualmente sou dev front end**<br>
 Eu gostor de codar e também resolver problemas =)
+<a target="_blank" href="https://www.linkedin.com/in/aisl%C3%A2nio-amorim-4009521b8/">Você pode ver meu Portfólio clicando aqui</a>
+
 
 ----
 
