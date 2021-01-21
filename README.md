@@ -6,7 +6,7 @@
 ---- 
 **Ola sou Aislanio Amorim atualmente sou dev front end**<br>
 Eu gostor de codar e também resolver problemas =)<br/>
-<a target="_blank" href="https://tender-yalow-6f4879.netlify.app/">Você pode ver meu Portfólio clicando aqui</a>
+
 
 
 ----
