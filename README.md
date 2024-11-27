@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Aislânio+Amorim;E+esse+é+o+meu+GitHub!)](https://git.io/typing-svg)
 
-<p align="center">Eu gostor de codar e também resolver problemas =) <br><br> Acredito que o verdadeiro poder da programação está em transformar ideias em realidades. Cada linha de código é uma oportunidade de criar algo impactante, e é isso que me motiva todos os dias. Como desenvolvedor full stack, meu objetivo é construir soluções que façam a diferença.</p>&nbsp;
+<p align="center">Acredito que o verdadeiro poder da programação está em transformar ideias em realidades. Cada linha de código é uma oportunidade de criar algo impactante, e é isso que me motiva todos os dias. Como desenvolvedor full stack, meu objetivo é construir soluções que façam a diferença.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
